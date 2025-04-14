@@ -103,7 +103,7 @@ const NuestrosProductos: React.FC = () => {
             }}
           >
             <Typography variant="h4" component="h2" gutterBottom align="center">
-              Nuestros Deliciosos Productos
+              Nuestros Productos mas vendidos
             </Typography>
 
             <Grid container spacing={4} justifyContent="center">
